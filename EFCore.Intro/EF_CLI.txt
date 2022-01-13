@@ -1,0 +1,7 @@
+﻿https://github.com/rstropek/htl-leo-csharp-4/blob/master/exercises/0040-ef-intro/Program.cs
+
+sqllocaldb i
+
+dotnet ef migrations add Initial
+
+dotnet ef database update
